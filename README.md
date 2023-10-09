@@ -1,4 +1,10 @@
 # iOS Theming Stuff
-Rehosting this stuff here since I lost access to my Myrepospace account.  Themes are fairly out of date as far as icon names go and probably won't work on iOS 8+ without a little tweaking.
 
-You can download everything all at once by using the download button on the right, but if you want a specific zip, just click on its name and then click "view raw."  It's not an elegant solution but as far as I can tell it's the best option available.
+This is a collection of the iOS themes originally created for use with Winterboard and iOS 6-8, rehosted after losing my MyRepoSpace account. **These themes will not work as is and have not been updated since their upload to support new device sizes or current jailbreaks.**
+
+<p xmlns:cc="http://creativecommons.org/ns#" >This work © 2015 by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://github.com/lushm0nstera">Andrew Janson</a> is licensed under <a href="http://creativecommons.org/licenses/by-nc/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-NC 4.0
+  <img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1"></a></p> 
+
+
+
+
